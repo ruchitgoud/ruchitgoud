@@ -1,10 +1,9 @@
-## Hi there 👋
 # 💫 About Me:
 Hi, I'm Ruchit, a B.Tech Computer Science (AI & ML) student passionate about building intelligent systems <br>and solving real-world problems using data.<br><br>I enjoy working with Python, Machine Learning, and Data Analytics.<br>Currently exploring Generative AI and improving my problem-solving skills through hands-on projects.<br><br>I believe in learning by building 🚀
 
 
 ## 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ruchit-goud-0466a83ab/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruchit-goud-0466a83ab/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ruchitgoudv@gmail.com) 
 
 # 💻 Tech Stack:
