@@ -4,9 +4,9 @@
 
 # 👋 Hi, I'm Vasa Ruchit Goud
 
-### 🎓 B.Tech Student | 🤖 AI & ML Enthusiast | 💻 Full Stack Developer
+### 🎓 B.Tech Student | AI & ML Enthusiast | AI Workflows | Building Intelligen Systems
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Enthusiast;Generative+AI+Learner;Python+Developer;Full+Stack+Developer;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Enthusiast;Generative+AI+Learner;Python+Developer;AI+Workflows;Always+Learning+New+Technologies"/>
 
 </div>
 
@@ -21,8 +21,8 @@
   - Large Language Models
   - Retrieval Augmented Generation (RAG)
   - AI Agents
-  - Multi-Agent Systems
   - Computer Vision
+  - AI Workflows
 - 💻 Building AI-powered applications using Python
 - ⚡ Fast learner and technology enthusiast
 - 🛠️ Comfortable with both Software & Computer Hardware
@@ -71,7 +71,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
 
@@ -121,15 +120,15 @@ Multi-Agent Systems
 # 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ruchitgoud&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ruchitgoud&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchitgoud&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -137,7 +136,7 @@ Multi-Agent Systems
 # 🏆 GitHub Trophy
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ruchitgoud&theme=algolia"/>
 </p>
 
 ---
@@ -154,11 +153,11 @@ Multi-Agent Systems
 
 # 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ruchit-goud/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](YOUR_GITHUB)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/ruchitgoud)
 
-[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:ruchitgoudv@gmail.com)
 
 ---
 
