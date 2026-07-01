@@ -14,7 +14,7 @@
 
 # 🚀 About Me
 
-- 🎓 B.Tech (3rd Year)
+- 🎓 B.Tech (4th Year)
 - 🤖 Passionate about Artificial Intelligence & Machine Learning
 - 🌱 Currently learning
   - Generative AI
@@ -30,6 +30,16 @@
 
 ---
 
+# 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ruchit-goud/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/ruchitgoud)
+
+[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:ruchitgoudv@gmail.com)
+
+---
+
 # 💻 Tech Stack
 
 ### Languages
@@ -37,7 +47,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+
 
 ---
 
@@ -54,8 +64,8 @@
 
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 
 ---
 
@@ -96,21 +106,21 @@
 # 📚 Currently Learning
 
 ```text
-Python
+    Python ✅
       ↓
-Machine Learning
+  Machine Learning ✅
       ↓
-Deep Learning
+  Deep Learning ✅
       ↓
-Computer Vision
+  Computer Vision ✅
       ↓
-Generative AI
+  Generative AI ✅
       ↓
-Large Language Models
+Large Language Models ✅
       ↓
-RAG
+     RAG ✅
       ↓
-AI Agents
+    AI Agents
       ↓
 Multi-Agent Systems
 ```
@@ -149,17 +159,7 @@ Multi-Agent Systems
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </picture>
 
----
 
-# 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ruchit-goud/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/ruchitgoud)
-
-[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:ruchitgoudv@gmail.com)
-
----
 
 <div align="center">
 
