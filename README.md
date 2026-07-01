@@ -1,37 +1,171 @@
-# Hello 👋, I'm Ruchit Goud
-### Passionate About AI & Future Tech
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=180&section=header&text=Hi%20There!%20I'm%20Ruchit%20👋&fontSize=40&fontColor=ffffff"/>
 
-Hi, I'm Ruchit, a B.Tech Computer Science (AI & ML) student passionate about building intelligent systems
-and solving real-world problems using data.
-I enjoy working with Python, Machine Learning, and Data Analytics.
-Currently exploring Generative AI and improving my problem-solving skills through hands-on projects.
+<div align="center">
 
-I believe in learning by building 🚀
+# 👋 Hi, I'm Vasa Ruchit Goud
 
-## Contact Me
-<p><a href="https://www.linkedin.com/in/ruchit-goud/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.youtube.com/@ruchitgaming" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a> </p>
+### 🎓 B.Tech Student | 🤖 AI & ML Enthusiast | 💻 Full Stack Developer
 
-## Skills
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Enthusiast;Generative+AI+Learner;Python+Developer;Full+Stack+Developer;Always+Learning+New+Technologies"/>
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+# 🚀 About Me
+
+- 🎓 B.Tech (3rd Year)
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
+- 🌱 Currently learning
+  - Generative AI
+  - Large Language Models
+  - Retrieval Augmented Generation (RAG)
+  - AI Agents
+  - Multi-Agent Systems
+  - Computer Vision
+- 💻 Building AI-powered applications using Python
+- ⚡ Fast learner and technology enthusiast
+- 🛠️ Comfortable with both Software & Computer Hardware
+- 🏆 Selected for Smart India Hackathon (Internal Hackathon)
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+
+---
+
+### AI & Machine Learning
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv)
+
+---
+
+### Web Development
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+
+---
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+
+---
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+
+---
+
+# 🚀 Featured Projects
+
+### 🌿 AI Plant Disease Detection System
+
+- CNN Deep Learning Model
+- Flask Web Application
+- Disease Prediction
+- Farmer Recommendation System
+
+---
+
+### 📱 Android Applications
+
+- Modern Android UI
+- Productivity Apps
+- Java Development
+
+---
+
+# 📚 Currently Learning
+
+```text
+Python
+      ↓
+Machine Learning
+      ↓
+Deep Learning
+      ↓
+Computer Vision
+      ↓
+Generative AI
+      ↓
+Large Language Models
+      ↓
+RAG
+      ↓
+AI Agents
+      ↓
+Multi-Agent Systems
+```
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 </p>
 
-## GitHub Stats
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ruchitgoud&theme=null" alt="GitHub Streak" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
 
-## GitHub Trophies
+---
 
-<img src="https://github-profile-trophy.vercel.app/?username=ruchitgoud" alt="trophy" />
+# 🏆 GitHub Trophy
 
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+---
+
+# 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](YOUR_GITHUB)
+
+[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+
+---
+
+<div align="center">
+
+### ⭐ "Building intelligent solutions with AI, one project at a time."
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer"/>
