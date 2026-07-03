@@ -87,12 +87,11 @@
 
 # 🚀 Featured Projects
 
-### 🌿 AI Plant Disease Detection System
+### 😴 AI Sleep & Distraction Tracker 
 
-- CNN Deep Learning Model
-- Flask Web Application
-- Disease Prediction
-- Farmer Recommendation System
+- Python (Core Logic)
+- OpenCV (Real-time camera feed processing and UI rendering)
+- Google MediaPipe (Face Landmarker model for 468+ 3D facial landmarks and iris tracking)
 
 ---
 
