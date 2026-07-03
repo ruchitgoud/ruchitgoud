@@ -138,7 +138,7 @@ Multi-Agent Systems
 # 🏆 GitHub Trophy
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ruchitgoud&theme=algolia](https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ruchitgoud&theme=algolia](https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png](https://github.com/users/ruchitgoud/achievements/quickdraw"/>
 </p>
 
 ---
