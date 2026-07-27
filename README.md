@@ -2,11 +2,11 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Vasa Ruchit Goud
+# 👋 Hi, I'm Ruchit Goud
 
-### 🎓 B.Tech Student | AI & ML Enthusiast | AI Workflows | Building Intelligen Systems
+### 🎓 Computer Science Student | AI & ML Enthusiast | AI Workflows | Building Intelligen Systems
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Enthusiast;Generative+AI+Learner;Python+Developer;AI+Workflows;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Enthusiast;Python+Developer;AI+Workflows;Always+Learning+New+Technologies"/>
 
 </div>
 
@@ -14,24 +14,17 @@
 
 # 🚀 About Me
 
-- 🎓 B.Tech (4th Year)
+- 🎓 Computer Science (4th Year)
 - 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 🌱 Currently learning
-  - Generative AI
-  - Large Language Models
-  - Retrieval Augmented Generation (RAG)
-  - AI Agents
-  - Computer Vision
-  - AI Workflows
 - 💻 Building AI-powered applications using Python
+- 📱 Developing Android Applications
 - ⚡ Fast learner and technology enthusiast
 - 🛠️ Comfortable with both Software & Computer Hardware
 - 🏆 Selected for Smart India Hackathon (Internal Hackathon)
 
-
 ---
-<div align="center">
 
+<div align="center"> 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruchit-goud/)
@@ -39,8 +32,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruchitgoudv@gmail.com) 
 </div>
 
-
 ---
+
 # 💻 Tech Stack
 
 ### Languages
@@ -48,7 +41,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 
 ---
 
@@ -65,7 +58,6 @@
 
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 
 ---
@@ -79,9 +71,18 @@
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+
+---
+
+### Pastimes
+
+[![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?logo=playstation-5&logoColor=white)](https://psnprofiles.com/Ruchit_)
+![Amazon Prime](https://img.shields.io/badge/Amazon%20Prime-0F79AF?logo=amazonprime&logoColor=white) ![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white) 
 
 ---
 
@@ -142,8 +143,6 @@ Multi-Agent Systems
           srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </picture>
-
-
 
 <div align="center">
 
