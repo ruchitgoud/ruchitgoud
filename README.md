@@ -79,11 +79,9 @@
 
 ---
 
-### Pastimes
+### Let's Have Fun Boys's
 
 [![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?logo=playstation-5&logoColor=white)](https://psnprofiles.com/Ruchit_)
-![Amazon Prime](https://img.shields.io/badge/Amazon%20Prime-0F79AF?logo=amazonprime&logoColor=white) ![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white) 
 
 ---
 
