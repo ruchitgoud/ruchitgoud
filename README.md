@@ -141,8 +141,8 @@
 </div>
 
 <div align="center">
-<h2> ⭐"Building intelligent solutions with AI, one project at a time." </h2>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer"/>
-</div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=180&section=footer&text=⭐%20Building%20intelligent%20solutions%20with%20AI,%20One%20project%20at%20a%20time.&fontSize=18&fontColor=FFFFFF&fontAlignY=70"/>
+
+</div>
 
