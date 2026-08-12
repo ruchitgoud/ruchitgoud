@@ -1,12 +1,15 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=180&section=header&text=Hi%20There!%20I'm%20Ruchit%20👋&fontSize=40&fontColor=ffffff"/>
-
 <div align="center">
 
-# 👋 Hi, I'm Ruchit Goud
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">
+  Hi, I'm
+</h1>
 
-### 🎓 Computer Science Student | AI & ML Enthusiast | AI Workflows | Building Intelligen Systems
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/wordmark?username=ruchitgoud&theme=aurora&label=Ruchit%20Goud" width="100%" alt="Animated 3D wordmark for Ruchit Goud" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Enthusiast;Python+Developer;AI+Workflows;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Python+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Intelligent+Solutions" />
 
 </div>
 
@@ -14,7 +17,7 @@
 
 # 🚀 About Me
 
-- 🎓 Computer Science (4th Year)
+- 🎓 Computer Science (4th Year) Student
 - 🤖 Passionate about Artificial Intelligence & Machine Learning
 - 💻 Building AI-powered applications using Python
 - 📱 Developing Android Applications
@@ -72,58 +75,50 @@
 
 ### Tools
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ---
 
-### Let's Have Fun Boys's
+### Let's Have Fun
 
-[![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?logo=playstation-5&logoColor=white)](https://psnprofiles.com/Ruchit_)
+[![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white)](https://psnprofiles.com/Ruchit_)
+
+---
+
+## 🚀 AI & Cloud Learning Journey
+
+| # | 🧠 Technology / Field | Status |
+|:-:|:----------------------|:------:|
+| 01 | 🐍 Python | ✅ |
+| 02 | 🤖 Machine Learning | ✅ |
+| 03 | 🧠 Deep Learning | ✅ |
+| 04 | ✨ Generative AI | ✅ |
+| 05 | 💬 Large Language Models | ✅ |
+| 06 | 🔎 Retrieval-Augmented Generation (RAG) | ✅ |
+| 07 | 🤖 AI Agents | 🔄 |
+| 08 | ☁️ Cloud Computing | 🔄 |
+| 09 | 🔗 APIs & AI Integration | 🔄 |
+| 10 | 🕸️ Multi-Agent Systems | ⏳ |
 
 ---
 
 # 🚀 Featured Projects
 
-### 😴 AI Sleep & Distraction Tracker 
+| 🤖 Project | 📝 Description | 🛠️ Technologies |
+|:-----------|:---------------|:-----------------|
+| **AI Sleep & Distraction Tracker** | Real-time drowsiness and distraction detection using facial landmarks and iris movement. | `Python` `OpenCV` `MediaPipe` |
+| **Android Productivity Apps** | Java-based Android applications focused on clean UI and practical productivity workflows. | `Java` `Kotlin` |
 
-- Python (Core Logic)
-- OpenCV (Real-time camera feed processing and UI rendering)
-- Google MediaPipe (Face Landmarker model for 468+ 3D facial landmarks and iris tracking)
+<br>
 
----
-
-### 📱 Android Applications
-
-- Modern Android UI
-- Productivity Apps
-- Java Development
-
----
-
-# 📚 Currently Learning
-
-```text
-    Python ✅
-      ↓
-  Machine Learning ✅
-      ↓
-  Deep Learning ✅
-      ↓
-  Computer Vision ✅
-      ↓
-  Generative AI ✅
-      ↓
-Large Language Models ✅
-      ↓
-     RAG ✅
-      ↓
-    AI Agents
-      ↓
-Multi-Agent Systems
-```
+<p align="center">
+  <a href="https://github.com/ruchitgoud?tab=repositories">
+    <img src="https://img.shields.io/badge/_Explore_My_Repositories-00C6FF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -135,18 +130,19 @@ Multi-Agent Systems
 
 ---
 
-# 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-</picture>
+# 🐍 Contribution Blocks
 
 <div align="center">
-
-### ⭐ "Building intelligent solutions with AI, one project at a time."
-
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://www.gitskins.com/showcase/space-shooter.gif" />
+  <img src="https://www.gitskins.com/showcase/space-shooter.gif"/>
+</picture>
 </div>
 
+<div align="center">
+<h2> ⭐"Building intelligent solutions with AI, one project at a time." </h2>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer"/>
+</div>
+
+
