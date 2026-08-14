@@ -110,7 +110,7 @@
 | 🤖 Project | 📝 Description | 🛠️ Technologies |
 |:-----------|:---------------|:-----------------|
 | **AI Sleep & Distraction Tracker** | Real-time drowsiness and distraction detection using facial landmarks and iris movement. | `Python` `OpenCV` `MediaPipe` |
-| **Android Productivity Apps** | Java-based Android applications focused on clean UI and practical productivity workflows. | `Java` `Kotlin` |
+| **Android Productivity Apps** | Java-based Android applications focused on clean UI and practical productivity workflows. | `Java` `Kotlin` `HTML` |
 
 <br>
 
