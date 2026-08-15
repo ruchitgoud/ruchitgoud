@@ -125,7 +125,7 @@
 # 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ruchitgoud&theme=tokyonight"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=ruchitgoud&theme=tokyonight"/>
 </p>
 
 ---
