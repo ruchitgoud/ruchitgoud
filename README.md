@@ -17,13 +17,9 @@
 
 # 🚀 About Me
 
-- 🎓 Computer Science (4th Year) Student
-- 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 💻 Building AI-powered applications using Python
-- 📱 Developing Android Applications
-- ⚡ Fast learner and technology enthusiast
-- 🛠️ Comfortable with both Software & Computer Hardware
-- 🏆 Selected for Smart India Hackathon (Internal Hackathon)
+- Student Developer
+- Curious about Tech Stuff.
+- Gamer 
 
 ---
 
